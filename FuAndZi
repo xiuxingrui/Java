@@ -1,0 +1,10 @@
+# 第一个实例
+如图用父类引用变量指向子类对象，来声明父类变量，创建子类对象：
+
+public class Fu {
+     `int age = 50;`
+     `public void hobby(){`
+         `System.out.println("看戏曲");`
+     `}`
+
+ `}`
